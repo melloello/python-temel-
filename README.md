@@ -1,0 +1,2 @@
+# python-temel-
+python temel 
